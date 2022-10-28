@@ -20,6 +20,7 @@
 "Mr. T, Apollo High School, AZ",60
 "Lone Wolf, Loy Norrix High School, MI",58
 "Katherine Mitchell, Eufaula High School, AL",57
+"The H guys, Mission San Jose High School, CA",57
 "LilTimmy, Moon Valley High School, AZ",57
 "AFC 2.0, Ohio Hi Point Career Center- Marysville, OH",56
 "Incognito Mode, Forsyth Central High School, GA",54
@@ -31,6 +32,7 @@
 "Venom, Westborough High School, MA",53
 "AVERY/NITTI, Irondequoit High School, NY",53
 "Cougars, Loy Norrix High School, MI",52
+"We down, BASIS Independent Silicon Valley, CA",51
 "Best or Bust, Algonquin Regional High School, MA",51
 "Thing1/Thing2, Lynbrook High School, CA",51
 "ZACCAGNINI/POWELL, Irondequoit High School, NY",50
@@ -43,7 +45,6 @@
 "KPM, Triangle Math and Science Academy, NC",46
 "El Trio Maravilla, Southwest Miami High School, FL",46
 "Are You Proud Mom?, Forsyth Central High School, GA",46
-"We down, BASIS Independent Silicon Valley, CA",46
 "Virtual Barbiez, Ronald Reagan High School, TX",46
 "Buffering..., Ronald Reagan High School, TX",45
 "Levi Carlson, University High School, CO",45
@@ -88,7 +89,6 @@
 "Mustangs, Redmond High School, WA",35
 "The Mathletes, Forsyth Central High School, GA",35
 "Ethan Michael Jacob, Adelson Educational Campus, NV",35
-"The H guys, Mission San Jose High School, CA",35
 "DECA Falcons, Round Rock High School, TX",35
 "Irish, Rosemount High School, MN",35
 "SDK, Rouse High School Deca, TX",35
@@ -110,6 +110,7 @@
 "WYGAL, Irondequoit High School, NY",33
 "Cowfolk, Greenway High School, AZ",33
 "GRISDALE, Irondequoit High School, NY",33
+"Dream Team AHS, Atlee High School, VA",32
 "FELICIANO, Irondequoit High School, NY",32
 "Dopy Gang, Washington High School, CA",32
 "Inglemoor, Inglemoor High School, WA",32
@@ -163,6 +164,7 @@
 "Walter from Buena, Buena High School, AZ",26
 "C. Beaver, Mandan High School, ND",26
 "Iggy 1, St. Ignatius College Prep, IL",26
+"The fuzz, Shadow Ridge High School, AZ",25
 "neem, Folsom High School, CA",25
 "D Squared, Cuthbertson High School, NC",25
 "DHS4, Danville High School, KY",25
@@ -177,10 +179,11 @@
 "Academic Artillery, Detroit Catholic Central High School, MI",24
 "Sacramento Stallions, Patrick County High School, VA",23
 "Speed, Plymouth North High School, MA",23
-"The fuzz, Shadow Ridge High School, AZ",23
+"freeyb, Forsyth Central High School, GA",23
 "The OG's(only girls), Forsyth Central High School, GA",23
 "GHCN3 - Shorthouse, Granada Hills Charter High School, CA",23
 "DECA Demons, Yukon High School, OK",23
+"Peanut Butter Cereal, Napoleon High School, OH",23
 "Jordan Belfort, Ozark High School, MO",22
 "DELLY/CRONIN, Irondequoit High School, NY",22
 "GHCN2-Quiroz,Michael, Granada Hills Charter High School, CA",22
@@ -226,6 +229,7 @@
 "Team Trey, Grapevine High School, TX",19
 "Nuts to Bolts, Shadow Ridge High School, AZ",18
 "Eutech, Bottineau High School, ND",18
+"The Caboose, West Carteret High School, NC",18
 "Fifi, Kate, Vic, Academy Of Holy Angels, NJ",18
 "DecaDeezNutz, Shadow Ridge High School, AZ",18
 "shetty, Carlmont High School, CA",17
@@ -252,6 +256,7 @@
 "YCJ, Southwest Miami High School, FL",15
 "Big E Fan Club, Sherando High School, VA",15
 "Team Jack and hayden, Grapevine High School, TX",14
+"Gramm, Memphis University School, TN",14
 "Justin from Buena, Buena High School, AZ",14
 "Team 10, Reservoir High School, MD",14
 "THORE, Irondequoit High School, NY",14
@@ -280,6 +285,7 @@
 "Sharks, Apollo High School, AZ",11
 "FAUHSDECA, Fau High School, FL",11
 "Boom Bay, Coral Glades High School, FL",11
+"Clayton, Wilson Memorial High School, VA",11
 "Mingi, Folsom High School, CA",11
 "Project X, Bishop Tonnos CSS, ON",11
 "Rohit, Folsom High School, CA",11
@@ -291,17 +297,14 @@
 "Hollander, Great Oaks Mariemont High School , OH",11
 "Monkey 2.0, Shadow Ridge High School, AZ",11
 "Hayes, Tupelo Career & Technical Center, MS",11
-"The Caboose, West Carteret High School, NC",10
 "HaLo, Denver East High School, CO",10
 "Rocks, Mandan High School, ND",10
 "Chunky Monkeys, Round Rock High School, TX",10
-"Clayton, Wilson Memorial High School, VA",10
 "Welch's fruit snacks, South Kitsap High School, WA",10
 "Broncos Countryy, Ohio Hi Point Career Center- Marysville, OH",10
 "varish, Shadow Ridge High School, AZ",10
 "Germ, Shadow Ridge High School, AZ",10
 "Audrey Finigan, Carlmont High School, CA",10
-"Peanut Butter Cereal, Napoleon High School, OH",10
 "JONES, Irondequoit High School, NY",10
 "Geckos, Patrick County High School, VA",10
 "Aiden k, Colonial Heights High School, VA",9
@@ -316,6 +319,7 @@
 "GHCN4 - Frias, Granada Hills Charter High School, CA",9
 "ashton, Forsyth Central High School, GA",9
 "RAM, Hebron High School, TX",8
+"ORTIZ/GRIFFIN, Irondequoit High School, NY",8
 "Team Riley, Grapevine High School, TX",8
 "The Demons, Gibbs High School, TN",8
 "Top Notch, Algonquin Regional High School, MA",8
